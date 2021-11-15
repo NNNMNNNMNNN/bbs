@@ -7,6 +7,7 @@ import mmms.member.controller.MemberController;
 public class MemberUI {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		
 		boolean isStop = false;
 		MemberController memberController = new MemberController();
@@ -26,6 +27,9 @@ public class MemberUI {
 
 		} while (!isStop);
 
+=======
+		Sytem.out.println("Pull 연습")
+>>>>>>> 51be99e2696493c7069882d4bd15df70ac482ed8
 
 	}
 

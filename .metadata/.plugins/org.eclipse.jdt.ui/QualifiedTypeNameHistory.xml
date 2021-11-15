@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="test3.SampleDAO"/>
     <fullyQualifiedTypeName name="test3.SampleDTO"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="test4.mvc.service.Service"/>
     <fullyQualifiedTypeName name="test4.mvc.service.ServiceImpl"/>
     <fullyQualifiedTypeName name="test4.mvc.dao.Dao"/>
@@ -25,7 +24,9 @@
     <fullyQualifiedTypeName name="java.sql.CallableStatement"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="mmms.member.action.Action"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="mmms.member.vo.Member"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="mmms.member.controller.MemberController"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
