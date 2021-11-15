@@ -46,4 +46,3 @@ return 0;
 public int deleteMember(String name) {
 	return 0;
 }
-}
