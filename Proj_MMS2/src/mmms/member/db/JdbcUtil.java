@@ -4,7 +4,23 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 public class JdbcUtil {
-
+	
+	static{
+		try {
+			Class.forName("oracle.jdbc.driver.OracleDriver");
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+	}
+	public static Connecttion getConnection() {
+		
+		con"jdbc:oracle:thin:@localhost:1521:orcl"
+	}
+	
+	
 	
 	
 	
