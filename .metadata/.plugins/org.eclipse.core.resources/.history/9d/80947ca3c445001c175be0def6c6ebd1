@@ -7,9 +7,8 @@ import mmms.member.controller.MemberController;
 public class MemberUI {
 
 	public static void main(String[] args) {
-//<<<<<<< HEADaaa
+<<<<<<< HEADaaa
 		
-		System.out.println("slave branch 연습1");
 		boolean isStop = false;
 		MemberController memberController = new MemberController();
 		Scanner sc = new Scanner(System.in);
@@ -27,10 +26,10 @@ public class MemberUI {
 
 
 		} while (!isStop);
-//
-//=======
-//		Sytem.out.println("Pull 연습")
-//>>>>>>> 51be99e2696493c7069882d4bd15df70ac482ed8
+
+=======
+		Sytem.out.println("Pull 연습")
+>>>>>>> 51be99e2696493c7069882d4bd15df70ac482ed8
 
 	}
 
